@@ -1,0 +1,41 @@
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC\bin\Debug\KrestNol_Test_DC.exe.config
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC\bin\Debug\KrestNol_Test_DC.exe
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC\bin\Debug\KrestNol_Test_DC.pdb
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC\obj\Debug\KrestNol_Test_DC.csprojAssemblyReference.cache
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC\obj\Debug\KrestNol_Test_DC.Form1.resources
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC\obj\Debug\KrestNol_Test_DC.Properties.Resources.resources
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC\obj\Debug\KrestNol_Test_DC.csproj.GenerateResource.cache
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC\obj\Debug\KrestNol_Test_DC.csproj.CoreCompileInputs.cache
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC\obj\Debug\KrestNol_Test_DC.exe
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC\obj\Debug\KrestNol_Test_DC.pdb
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC v.1.1\bin\Debug\KrestNol_Test_DC.exe.config
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC v.1.1\bin\Debug\KrestNol_Test_DC.exe
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC v.1.1\bin\Debug\KrestNol_Test_DC.pdb
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.csprojAssemblyReference.cache
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.Form1.resources
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.Properties.Resources.resources
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.csproj.GenerateResource.cache
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.csproj.CoreCompileInputs.cache
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.exe
+C:\Users\Roboveg-PC\Desktop\Лабы ООП 4 семестр\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.pdb
+C:\Users\Pisos\Desktop\KrestNol_Test_DC v.1.1\bin\Debug\KrestNol_Test_DC.exe.config
+C:\Users\Pisos\Desktop\KrestNol_Test_DC v.1.1\bin\Debug\KrestNol_Test_DC.exe
+C:\Users\Pisos\Desktop\KrestNol_Test_DC v.1.1\bin\Debug\KrestNol_Test_DC.pdb
+C:\Users\Pisos\Desktop\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.csprojAssemblyReference.cache
+C:\Users\Pisos\Desktop\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.Form1.resources
+C:\Users\Pisos\Desktop\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.Form2.resources
+C:\Users\Pisos\Desktop\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.Properties.Resources.resources
+C:\Users\Pisos\Desktop\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.csproj.GenerateResource.cache
+C:\Users\Pisos\Desktop\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.csproj.CoreCompileInputs.cache
+C:\Users\Pisos\Desktop\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.exe
+C:\Users\Pisos\Desktop\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.pdb
+C:\Users\Roboveg-PC\Desktop\KrestNol_Test_DC v.1.1\bin\Debug\KrestNol_Test_DC.exe.config
+C:\Users\Roboveg-PC\Desktop\KrestNol_Test_DC v.1.1\bin\Debug\KrestNol_Test_DC.exe
+C:\Users\Roboveg-PC\Desktop\KrestNol_Test_DC v.1.1\bin\Debug\KrestNol_Test_DC.pdb
+C:\Users\Roboveg-PC\Desktop\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.csprojAssemblyReference.cache
+C:\Users\Roboveg-PC\Desktop\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.Form1.resources
+C:\Users\Roboveg-PC\Desktop\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.Properties.Resources.resources
+C:\Users\Roboveg-PC\Desktop\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.csproj.GenerateResource.cache
+C:\Users\Roboveg-PC\Desktop\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.csproj.CoreCompileInputs.cache
+C:\Users\Roboveg-PC\Desktop\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.exe
+C:\Users\Roboveg-PC\Desktop\KrestNol_Test_DC v.1.1\obj\Debug\KrestNol_Test_DC.pdb
